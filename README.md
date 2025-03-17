@@ -22,7 +22,7 @@ Después de realizar el sorteo, se muestra quién es el "Amigo Secreto" que ha s
 <h1>Instalación y Ejecución</h1>
 Para ejecutar este proyecto, sigue estos pasos:
 Clonar el Repositorio:
-```git clone https://github.com/tu-usuario/tu-repositorio.git````
+```git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/RodRM6/reto1.git)````
 
 Abrir el Proyecto:
 Abre el archivo index.html en un navegador para ver la interfaz del proyecto.
